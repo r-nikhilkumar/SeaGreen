@@ -65,7 +65,7 @@ The Seagreen Project leverages advanced computer vision techniques to detect pla
     cd ../backend
     python manage.py migrate
     cd ../frontend
-    npm start
+    npm run dev
     ```
 
 2. The script will process the video, detect plastics and submerged debris, and display the results with annotations.
